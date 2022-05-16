@@ -13,3 +13,6 @@ Y para construir el build:
 ```
 npm run build
 ```
+
+
+Cambiar nombre de dist/ a docs/
